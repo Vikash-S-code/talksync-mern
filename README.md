@@ -123,7 +123,7 @@ A user sends a PDF file ("Index Page.pdf") within the chat, showing the file ico
 
 ## 🌟 Future Plans
 
-We plan to enhance the chat application with a **real-time calling feature** in upcoming updates.  
+I am plan to enhance the chat application with a **real-time calling feature** in upcoming updates.  
 
 ### 🔹 Calling Feature Highlights:
 - Real-time **audio and video calls** between users
